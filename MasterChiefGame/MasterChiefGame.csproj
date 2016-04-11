@@ -129,7 +129,6 @@
     <Content Include="Assets\images\{ocean.gif" />
     <Content Include="Content\game.css" />
     <Content Include="Content\reset.css" />
-    <Content Include="gulpfile.js" />
     <Content Include="index.html" />
     <Content Include="js\easeljs-0.7.1.min.js" />
     <Content Include="js\ndgmr.Collision.js" />
